@@ -11,7 +11,7 @@ Mετεωρολογικός σταθμός βασισμένος σε arduino ESP
 
 Έγινε προμήθεια του παρακάτω κιτ σταθμού <https://www.hellasdigital.gr/electronics/sensors/temperature-sensors/weather-station/>
 
-Μελλοντικά Θα χρειαστεί ένας καλύτερος αισθητήρας όπως αυτός <https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/mcu-and-components/temperature/bme280-high-precision-barometric-pressure-and-humidity-sensor-for-arduino-gy-bme280-3.3/>
+Μελλοντικά Θα χρειαστεί ένας καλύτερος αισθητήρας όπως αυτός <https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/mcu-and-components/pressure/bme680-temperature-humidity-pressure-sensor/>
 
 Από τα ESP32 έγινε επιλογή του Wemos Lolin32 OLED. Ένα board βασισμένο σε ESP32 με δυνατότητα σύνδεσης στο Internet και ενσωματωμένη οθόνη για να προβάλλονται οι τιμές και τοπικά
 
